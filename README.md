@@ -9,3 +9,5 @@ Please visit the new repository [here](https://docs.cymaticsomatics.com/docs/spe
 ### Prism
 You can also check out [Prism](https://www.cymaticsomatics.com) which is a professional creation tool for Brain Wave Entrainment (BRE)
 sessions that supports both AudioStrobe and SpectraStrobe light encoding.
+
+![Prism Screenshot](PrismScreenshot.png)
